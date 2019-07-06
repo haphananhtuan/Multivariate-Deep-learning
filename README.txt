@@ -1,1 +1,1 @@
-Gitlab for deploy to heroku and test
+Gitlab for deploy to lightsail and test
