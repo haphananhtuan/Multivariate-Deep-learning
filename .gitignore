@@ -4,4 +4,6 @@
 __init__*.py
 *.pyc
 main/media/*
+.idea/*
+.idea/dataSources.local.xml
 .idea/workspace.xml
