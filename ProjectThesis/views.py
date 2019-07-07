@@ -1,4 +1,4 @@
-# pages/views.py
+# ProjectThesis/views.py
 from django.views.generic import TemplateView
 
 

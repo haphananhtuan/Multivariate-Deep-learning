@@ -1,4 +1,4 @@
-# pages/tests.py
+# ProjectThesis/tests.py
 from django.test import SimpleTestCase
 
 
